@@ -6,4 +6,8 @@ public class ContactPage {
 
     // twitter
 
+    // email
+
+    // linkdin
+
 }
